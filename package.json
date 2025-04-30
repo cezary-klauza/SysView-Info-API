@@ -1,0 +1,17 @@
+{
+  "name": "system-view-api",
+  "version": "1.0.0",
+  "description": "SysView Info API is a lightweight Node.js application that provides system statistics through simple JSON routes. It allows you to access information about your system's CPU, memory, user, process, network, and operating system.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
